@@ -9,7 +9,7 @@ const Completed_Task = () => {
         <title>Completed-Task</title>
       </Head>
       <Layout>
-        <h2>This Completed Task</h2>
+      <h2 className="text-center text-4xl mb-2">Completed Task</h2>
       </Layout>
     </div>
   );
