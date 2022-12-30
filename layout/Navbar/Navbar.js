@@ -53,6 +53,15 @@ const Navbar = () => {
                   Completed Task
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/login"
+                  className="block py-2 pl-3 pr-4 text-grey-700 md:p-0 dark:text-white"
+                  aria-current="page"
+                >
+                  LogIn
+                </Link>
+              </li>
             </ul>
           </div>
         </div>

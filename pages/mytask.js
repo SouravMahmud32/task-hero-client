@@ -8,7 +8,7 @@ const mytask = () => {
         <title>My-Task</title>
       </Head>
       <h2 className="text-center text-4xl mb-2">My Task</h2>
-      <div className="overflow-x-auto">
+      <div className="my-8 overflow-x-auto">
         <table className="table w-full">
           <thead>
             <tr>
